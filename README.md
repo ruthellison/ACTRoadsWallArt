@@ -7,3 +7,31 @@ How do we use data from the past to predict a better future for Canberra? Connec
 
 ## Data story
 How we arrived at this project
+
+## Workflow
+1. Download ACT Roads Centrelines dataset
+2. Extract and repackage each supplied dataset into separate zips
+3. Use MapShaper.org to explore datasets
+4. Extract border, road centrelines & road polygons to SVG
+4. Import SVGs into illustrator
+5. Observe that the road polygons have significant artifacting, rendering them unusable for this project
+
+### Artwork 1 - All ACT map
+A lasercut map of Canberra, with the border cut from wood and the road network engraved
+1. Simplify paths to reduce node count.
+2. Colour border separately so it can cut rather than engraved.
+3. Test-cut a small section with a high density area.
+4. Observe that the density is too high and these will need to be rastered.
+
+Artwork 2 - CBD Map
+1. A lasercut map of Canberra, focusing on the CBD & parliamentary zone, with the roads in wood and the space between removed
+2. Simplify paths to reduce node count.
+3. Set stroke width to a visually appealing size.
+4. Observe that some artifacting where strokes meet occurs, addressed by setting the stroke ends to round instead of square.
+5. Outline all strokes.
+6. Merge the outlines into a single outline.
+7. Stroke a rectangle around the piece for a border. Duplicate it, and use the duplicate as a clipping mask. Use the clipping to crop the roads.
+8. Outline the border and merge it with the road network. 
+9. Import into Lightburn, set power & speeds for cuts
+10. Cut on a sheet of Bunnings 3mm plywood
+
