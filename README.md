@@ -39,6 +39,7 @@ A lasercut map of Canberra, focusing on the CBD & parliamentary zone, with the r
 7. Outline the border and merge it with the road network.
 8. Import into Lightburn, set power & speeds for cuts
 9. Cut on a sheet of Bunnings 3mm plywood
+![Image of CBD](Photos/20190908_124836.jpg)
 
 ### Artwork 3 - CBD Map coasters
 A subsection of artwork 2, scaled & cut on acacia coasters
