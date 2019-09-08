@@ -26,7 +26,7 @@ A lasercut map of Canberra, with the border cut from wood and the road network e
 5. Spend many hours trying to script detection of dense areas, eventually gave up and decided to raster all of the populated areas, leaving the rural roads as vector engraving to keep the cut time down
 6. Import into Lightburn, set power & speeds for cuts & engraving
 7. Cut on a sheet of Bunnings 3mm plywood
-
+![Image of CBD](Photos/20190908_124740.jpg)
 
 ### Artwork 2 - CBD Map
 A lasercut map of Canberra, focusing on the CBD & parliamentary zone, with the roads in wood and the space between removed.
