@@ -49,3 +49,4 @@ A subsection of artwork 2, scaled & cut on acacia coasters
 4. Create a wider circle based on the coaster diameter
 5. Cut the wider circle out of scrap, we will use this to position the coaster accurately in the laser
 6. Engrave the artwork onto the coaster
+![Image of CBD](Photos/20190908_141807.jpg)
