@@ -8,14 +8,15 @@ How do we use data from the past to predict a better future for Canberra and con
 ## Data story
 We have produced 3 artworks based on the ACT Roads Centrelines dataset: https://www.data.act.gov.au/dataset/Road-Centrelines/r8wk-ud5i
 
-Initial processing:
-Download ACT Roads Centrelines dataset
-Extract and repackage each supplied dataset into separate zips
-Use MapShaper.org to explore datasets
-Extract border, road centrelines & road polygons to SVG
-Import SVGs into illustrator
-Observe that the road polygons from the Road Polygons datasets have significant artifacting, rendering them unusable for this project. We will work with the ACT Border and ACT Road Centrelines datasets
-Artwork 1 - All ACT map
+### Initial processing:
+1. Download ACT Roads Centrelines dataset
+2. Extract and repackage each supplied dataset into separate zips
+3. Use MapShaper.org to explore datasets
+4. Extract border, road centrelines & road polygons to SVG
+5. Import SVGs into illustrator
+6. Observe that the road polygons from the Road Polygons datasets have significant artifacting, rendering them unusable for this project. We will work with the ACT Border and ACT Road Centrelines datasets
+
+### Artwork 1 - All ACT map
 A lasercut map of Canberra, with the border cut from wood and the road network engraved
 1. Simplify paths to reduce node count.
 2. Colour border separately so it can cut rather than engraved.
@@ -25,7 +26,8 @@ A lasercut map of Canberra, with the border cut from wood and the road network e
 6. Import into Lightburn, set power & speeds for cuts & engraving
 7. Cut on a sheet of Bunnings 3mm plywood
 
-Artwork 2 - CBD Map
+
+### Artwork 2 - CBD Map
 A lasercut map of Canberra, focusing on the CBD & parliamentary zone, with the roads in wood and the space between removed.
 1. Simplify paths to reduce node count.
 2. Set stroke width to a visually appealing size.
@@ -37,7 +39,7 @@ A lasercut map of Canberra, focusing on the CBD & parliamentary zone, with the r
 8. Import into Lightburn, set power & speeds for cuts
 9. Cut on a sheet of Bunnings 3mm plywood
 
-Artwork 3 - CBD Map coasters
+### Artwork 3 - CBD Map coasters
 A subsection of artwork 2, scaled & cut on acacia coasters
 1. Take the saved work from Step 5 of artwork 2
 2. Create a circular crop centred on Parliament House
