@@ -46,6 +46,6 @@ A subsection of artwork 2, scaled & cut on acacia coasters
 1. Take the saved work from Step 5 of artwork 2
 2. Create a circular crop centred on Parliament House
 3. Import into Lightburn, set power & speeds for cuts
-4. Create a wider circle based on the caoster diameter
+4. Create a wider circle based on the coaster diameter
 5. Cut the wider circle out of scrap, we will use this to position the coaster accurately in the laser
 6. Engrave the artwork onto the coaster
