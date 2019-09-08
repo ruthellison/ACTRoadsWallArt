@@ -1,5 +1,6 @@
 # ACT Roads Wall Art
-This project was created for the GovHack 2019 competition. You can access the project on the GovHack website here: https://hackerspace.govhack.org/team_management/teams/601
+This project was created for the GovHack 2019 competition. You can access the project on the GovHack website here: https://hackerspace.govhack.org/projects/canberra_roads_wall_art
+
 ## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UAAa_MpXMjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
